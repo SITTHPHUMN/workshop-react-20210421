@@ -8,8 +8,8 @@ class App extends Component {
       <div>
         <ul>
           <User info="User 01" age="30" />
-          <User info="User 02" />
-          <User info="User 03" />
+          <User info="User 02" age="99"/>
+          <User info="User 03" age="55"/>
         </ul>
         <Clock title="Current DATA = " />
       </div>
