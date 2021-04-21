@@ -9,8 +9,8 @@ class App extends Component {
       <div>
         <ul>
           <User info="User 01" age="30" />
-          <User info="User 02" />
-          <User info="User 03" />
+          <User info="User 02" age="30"/>
+          <User info="User 03" age="30"/>
         </ul>
         <Clock title="Current DATA = " />
         <Form />
